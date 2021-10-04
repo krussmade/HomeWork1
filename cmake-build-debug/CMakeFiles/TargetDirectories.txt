@@ -1,3 +1,0 @@
-C:/Users/adami/desktop/CPrograms/cmake-build-debug/CMakeFiles/CPrograms.dir
-C:/Users/adami/desktop/CPrograms/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/adami/desktop/CPrograms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
