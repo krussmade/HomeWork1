@@ -1,0 +1,19 @@
+Отчет с характеристиками
+
+animal.h (615 байт)
+beast.h (822 байта)
+bird.h (721 байт)
+constants.h (98 байт)
+container.h (1111 байт)
+fish.h (837 байт)
+utilus.h (177 байт)
+
+animal.cpp (2176 байтf)
+beast.cpp (982 байта)
+bird.cpp (904 байта)
+container.cpp (1494 байтf)
+fish.cpp (1021 байт)
+utilus.cpp (309 байт)
+main.cpp (2037 байт)
+
+Всего: 13 304 байта
